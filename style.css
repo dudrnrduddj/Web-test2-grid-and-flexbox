@@ -17,7 +17,6 @@ main{
     margin:auto;
     width:95%;
     max-width: 1240px;
-    height:100vh;
     margin-top:20px;
     margin-bottom: 20px;
 
@@ -33,7 +32,7 @@ main{
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     flex-basis: 35%    
 }
 .item #header,.item1 #header,.item2 #header{
